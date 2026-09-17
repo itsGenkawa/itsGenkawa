@@ -90,9 +90,14 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 
 <br><br>
 
-<h2>
-  <img src="https://api.iconify.design/lucide:ring.svg?width=26&height=26&color=%23E91E63" alt="Anel">
-  <span style="font-family: Georgia, serif; font-style: italic;">Casada com Natália</span>
+<h2 align="center">
+  <img
+    src="https://api.iconify.design/mdi:ring.svg?width=26&height=26&color=%23E91E63"
+    alt="Anel"
+  >
+  <span style="font-family: Georgia, serif; font-style: italic;">
+    Casada com Natália
+  </span>
 </h2>
 
 </div>
