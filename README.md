@@ -117,10 +117,6 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 
 ### Aprendendo • Construindo • Evoluindo
 
-<br>
-
-**𝑮𝒆𝒏𝒌𝒂𝒘𝒂**
-
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- PIXEL 2 -->
