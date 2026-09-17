@@ -35,7 +35,9 @@ Olá! Eu sou a **Isabella Genkawa**, tenho **22 anos** e sou **Técnica em Autom
 
 Atualmente estou estudando **programação e desenvolvimento de software**, explorando diferentes áreas da tecnologia.
 
-Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transformar ideias em código.
+Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transformar ideias em código. <img src="./gif1.gif" width="20" alt="Totoro">
+
+</div>
 
 <h2 align="center">
   <img src="https://api.iconify.design/simple-icons:spotify.svg?width=22&height=22&color=%23E91E63" alt="Spotify">
@@ -48,14 +50,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 
 </div>
 
----
 
-<div align="center">
-
-<!-- TOToro -->
-<img src="./gif1.gif" width="180" alt="Totoro">
-
-</div>
 
 ---
 
