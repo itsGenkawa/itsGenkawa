@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # GENKAWA
@@ -17,13 +16,13 @@ Currently learning programming and building projects to turn ideas into code.
 
 ### Currently learning
 
-- HTML & CSS
-- JavaScript
-- Python
 - C
 - C++
+- CLP
+- Arduino
+- HTML
+- CSS
 - Pawn
-- Git & GitHub
 
 ---
 
@@ -31,7 +30,13 @@ Currently learning programming and building projects to turn ideas into code.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,html,css" />
+
+</div>
+
+<div align="center">
+
+`CLP` • `Pawn`
 
 </div>
 
