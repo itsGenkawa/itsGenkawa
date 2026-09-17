@@ -66,9 +66,6 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 
 </div>
 
----
-<!-- PIXEL 1 -->
-<img src="./assets/pixel2.jpg" width="40" alt="Pixel decorativo">
 
 ## Contato
 
@@ -102,7 +99,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- PIXEL 2 -->
-<img src="./pixel1.jpg" width="40" alt="Pixel decorativo">
+<img src="./pixel1.jpg" width="60" alt="Pixel decorativo">
 
 <br><br>
 
