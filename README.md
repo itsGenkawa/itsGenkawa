@@ -5,12 +5,10 @@
 
 <br><br>
 
-<!-- AVATAR -->
-<img src="./assets/avatar.png" width="150" alt="Genkawa">
 
 <br><br>
 
-# GENKAWA
+# **𝑮𝒆𝒏𝒌𝒂𝒘𝒂**
 
 ### Programação • Automação • Tecnologia
 
@@ -35,7 +33,7 @@
 
 ## Sobre mim
 
-Olá! Eu sou a **Genkawa**, tenho **22 anos** e sou **Técnica em Automação Industrial**.
+Olá! Eu sou a **Isabella Genkawa**, tenho **22 anos** e sou **Técnica em Automação Industrial**.
 
 Atualmente estou estudando **programação e desenvolvimento de software**, explorando diferentes áreas da tecnologia e transformando o que aprendo em projetos.
 
@@ -95,7 +93,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 
 <br>
 
-**GENKAWA**
+**𝑮𝒆𝒏𝒌𝒂𝒘𝒂**
 
 <br><br>
 
