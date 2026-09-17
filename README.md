@@ -1,17 +1,23 @@
 <div align="center">
 
+<!-- BANNER -->
+<img src="./assets/banner.png" width="100%" alt="GENKAWA">
+
+<br><br>
+
+<!-- AVATAR -->
+<img src="./assets/avatar.png" width="150" alt="Genkawa">
+
+<br><br>
+
 # GENKAWA
 
 ### Programação • Automação • Tecnologia
 
-</div>
-
 <br>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Status-Aprendendo%20programação-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/Foco-Desenvolvimento%20e%20Automação-111111?style=for-the-badge">
+[![Status](https://img.shields.io/badge/Status-Estudando%20Programação-111111?style=for-the-badge)](https://github.com/itsGenkawa)
+[![GitHub](https://img.shields.io/badge/GitHub-itsGenkawa-111111?style=for-the-badge&logo=github)](https://github.com/itsGenkawa)
 
 </div>
 
@@ -19,14 +25,17 @@
 
 ## Sobre mim
 
-Olá! Eu sou **Genkawa**.
+Olá! Eu sou a **Genkawa**, tenho **22 anos** e sou **Técnica em
+Automação Industrial**.
 
-Sou uma pessoa apaixonada por tecnologia, programação e automação.
+Atualmente estou estudando **programação e desenvolvimento de software**,
+buscando ampliar meus conhecimentos e transformar ideias em projetos reais.
 
-Atualmente estou expandindo meus conhecimentos em desenvolvimento de software,
-enquanto continuo utilizando os conhecimentos que já possuo em programação e automação.
+Tenho conhecimentos em **C, C++, Arduino e CLP** e atualmente estou
+aprendendo **HTML, CSS, JavaScript e Pawn**.
 
-Meu objetivo é aprender cada vez mais, criar projetos práticos e transformar ideias em código.
+Meu objetivo é continuar evoluindo, praticar através de projetos e
+construir minha trajetória na área de tecnologia.
 
 ---
 
@@ -36,18 +45,22 @@ Meu objetivo é aprender cada vez mais, criar projetos práticos e transformar i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino">
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/CLP-Programação%20de%20CLP-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/CLP-Programação%20de%20CLP-181818?style=for-the-badge" />
 
 </div>
 
-- **C**
-- **C++**
-- **Arduino**
-- **CLP**
+<br>
+
+| Tecnologia | Área |
+|:---:|:---|
+| **C** | Programação |
+| **C++** | Programação |
+| **Arduino** | Eletrônica e Automação |
+| **CLP** | Automação Industrial |
 
 ---
 
@@ -55,34 +68,44 @@ Meu objetivo é aprender cada vez mais, criar projetos práticos e transformar i
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Pawn-Em%20aprendizado-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/PAWN-Em%20aprendizado-181818?style=for-the-badge" />
 
 </div>
 
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Pawn**
+<br>
+
+| Tecnologia | Status |
+|:---:|:---:|
+| **HTML** | 📚 Aprendendo |
+| **CSS** | 📚 Aprendendo |
+| **JavaScript** | 📚 Aprendendo |
+| **Pawn** | 📚 Aprendendo |
 
 ---
 
-## Tecnologias
+## Minha jornada
 
 ```text
-PROGRAMMING
-├── C                    ✓ Conhecimento
-├── C++                  ✓ Conhecimento
-└── Pawn                 ◐ Aprendendo
-
-WEB
-├── HTML                 ◐ Aprendendo
-├── CSS                  ◐ Aprendendo
-└── JavaScript           ◐ Aprendendo
-
-AUTOMAÇÃO
-├── CLP                  ✓ Conhecimento
-└── Arduino              ✓ Conhecimento
+AUTOMAÇÃO INDUSTRIAL
+        │
+        ├── C
+        ├── C++
+        ├── Arduino
+        └── CLP
+             │
+             ▼
+        PROGRAMAÇÃO
+             │
+             ├── HTML
+             ├── CSS
+             ├── JavaScript
+             └── Pawn
+             │
+             ▼
+       DESENVOLVIMENTO
+             │
+             └── Projetos próprios
