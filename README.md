@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/HTML5-E91E63?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-E91E63?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-E91E63?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/CEF-E91E63?style=for-the-badge">
 <img src="https://img.shields.io/badge/Pawn-E91E63?style=for-the-badge">
 
 </div>
