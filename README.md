@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**itsGenkawa/itsGenkawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# GENKAWA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning to code • Building projects • Exploring technology
+
+</div>
+
+---
+
+## About Me
+
+I'm Genkawa.
+
+Currently learning programming and building projects to turn ideas into code.
+
+### Currently learning
+
+- HTML & CSS
+- JavaScript
+- Python
+- C
+- C++
+- Pawn
+- Git & GitHub
+
+---
+
+## Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Learning. Building. Evolving.
+
+</div>
