@@ -46,46 +46,15 @@ Meu objetivo é evoluir constantemente, desenvolver projetos próprios e transfo
 
 ## Projetos
 
-<div align="center">
+### ⭐ Sky Pixel Roleplay
 
-🚧 **Projetos em construção**
+Projeto de comunidade e plataforma web para um servidor de Roleplay.
 
-</div>
+> Desenvolvimento em andamento.
 
-Este perfil reúne meus projetos, estudos, experimentos e aplicações desenvolvidas ao longo da minha evolução na programação.
+**Tecnologias e conceitos:**
 
----
-
-## GitHub
-
-<div align="center">
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=itsGenkawa&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark"
-  alt="Estatísticas do GitHub"
-/>
-
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsGenkawa&layout=compact&hide_border=true&theme=dark"
-  alt="Linguagens mais utilizadas"
-/>
-
-</div>
-
----
-
-## Atividade
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=itsGenkawa&theme=github-dark&hide_border=true"
-  alt="Gráfico de atividade do GitHub"
-/>
-
-</div>
+`Web` • `JavaScript` • `HTML` • `CSS` • `Discord` • `Banco de dados`
 
 ---
 
@@ -98,17 +67,6 @@ Este perfil reúne meus projetos, estudos, experimentos e aplicações desenvolv
 <img
   src="https://img.shields.io/badge/Email-hello.genkawa%40gmail.com-181818?style=for-the-badge&logo=gmail&logoColor=white"
   alt="Email"
-/>
-
-</a>
-
-&nbsp;
-
-<a href="https://github.com/itsGenkawa">
-
-<img
-  src="https://img.shields.io/badge/GitHub-itsGenkawa-181818?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
 />
 
 </a>
