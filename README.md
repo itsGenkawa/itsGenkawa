@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="./assets/banner.jpg" width="100%" alt="GENKAWA">
+<img src="./assets/banner.jpg" width="70%" alt="GENKAWA">
 
 <br><br>
 
