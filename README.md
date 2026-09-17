@@ -37,6 +37,14 @@ Atualmente estou estudando **programação e desenvolvimento de software**, expl
 
 Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transformar ideias em código.
 
+<h2 align="center">🎵 Spotify</h2>
+
+<div align="center">
+
+<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31lhqqiutwqidp346pddgxzwcjdi" alt="Spotify recently played">
+
+</div>
+
 ---
 
 ## Projetos
@@ -53,14 +61,6 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 </p>
 
 <br>
-
-<h2 align="center">🎵 Spotify</h2>
-
-<div align="center">
-
-<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31lhqqiutwqidp346pddgxzwcjdi" alt="Spotify recently played">
-
-</div>
 
 <img src="https://img.shields.io/badge/HTML-E91E63?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-E91E63?style=flat-square&logo=css3&logoColor=white">
