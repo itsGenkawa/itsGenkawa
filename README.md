@@ -14,18 +14,18 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/C-181818?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-181818?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-181818?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/CLP-181818?style=for-the-badge">
+<img src="https://img.shields.io/badge/C-E91E63?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-E91E63?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-E91E63?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/CLP-E91E63?style=for-the-badge">
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/CEF-181818?style=for-the-badge">
-<img src="https://img.shields.io/badge/Pawn-181818?style=for-the-badge">
+<img src="https://img.shields.io/badge/HTML5-E91E63?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-E91E63?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-E91E63?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/CEF-E91E63?style=for-the-badge">
+<img src="https://img.shields.io/badge/Pawn-E91E63?style=for-the-badge">
 
 </div>
 
@@ -58,11 +58,11 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 
 <br>
 
-<img src="https://img.shields.io/badge/HTML-181818?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-181818?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/CEF-181818?style=flat-square">
-<img src="https://img.shields.io/badge/Pawn-181818?style=flat-square">
+<img src="https://img.shields.io/badge/HTML-E91E63?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-E91E63?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-E91E63?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/CEF-E91E63?style=flat-square">
+<img src="https://img.shields.io/badge/Pawn-E91E63?style=flat-square">
 
 </div>
 
@@ -74,7 +74,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 <a href="mailto:hello.genkawa@gmail.com">
 
 <img
-  src="https://img.shields.io/badge/Email-hello.genkawa%40gmail.com-181818?style=for-the-badge&logo=gmail&logoColor=white"
+  src="https://img.shields.io/badge/Email-hello.genkawa%40gmail.com-E91E63?style=for-the-badge&logo=gmail&logoColor=white"
   alt="Email"
 />
 
