@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/CEF-181818?style=for-the-badge">
 <img src="https://img.shields.io/badge/Pawn-181818?style=for-the-badge">
 
 </div>
@@ -38,23 +39,34 @@ Olá! Eu sou a **Genkawa**, tenho **22 anos** e sou **Técnica em Automação In
 
 Atualmente estou estudando **programação e desenvolvimento de software**, explorando diferentes áreas da tecnologia e transformando o que aprendo em projetos.
 
-Tenho experiência com **C, C++, Arduino e CLP** e estou expandindo meus estudos para **HTML, CSS, JavaScript e Pawn**.
+Tenho conhecimento em **C, C++, Arduino e CLP** e atualmente estou estudando **HTML, CSS, JavaScript, CEF e Pawn**.
 
-Meu objetivo é evoluir constantemente, desenvolver projetos próprios e transformar ideias em código.
+Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transformar ideias em código.
 
 ---
 
 ## Projetos
 
-### ⭐ Sky Pixel Roleplay
+<div align="center">
 
-Projeto de comunidade e plataforma web para um servidor de Roleplay.
+<h3>
+  <img src="https://api.iconify.design/lucide:star.svg?width=20&height=20">
+  Sky Pixel Roleplay
+</h3>
 
-> Desenvolvimento em andamento.
+<p>
+  Servidor de Roleplay em desenvolvimento.
+</p>
 
-**Tecnologias e conceitos:**
+<br>
 
-`Web` • `JavaScript` • `HTML` • `CSS` • `Discord` • `Banco de dados`
+<img src="https://img.shields.io/badge/HTML-181818?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-181818?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-181818?style=flat-square&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/CEF-181818?style=flat-square">
+<img src="https://img.shields.io/badge/Pawn-181818?style=flat-square">
+
+</div>
 
 ---
 
