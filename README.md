@@ -3,7 +3,7 @@
 <!-- BANNER -->
 <img src="./assets/banner.jpg" width="70%" alt="GENKAWA">
 
-<br><br>
+<br>
 
 
 <br><br>
