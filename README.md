@@ -86,9 +86,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 <div align="center">
 
 <!-- BANNER GIF -->
-<img src="./pixel1.jpg" width="70" alt="Pixel decorativo">
-
-<br><br>
+<img src="./pixel1.jpg" width="100" alt="Pixel decorativo">
 
 <h2 align="center">
   <img
