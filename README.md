@@ -50,6 +50,15 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 
 ---
 
+<div align="center">
+
+<!-- TOToro -->
+<img src="./gif1.gif" width="180" alt="Totoro">
+
+</div>
+
+---
+
 ## Projetos
 
 <div align="center">
@@ -72,6 +81,21 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 
 </div>
 
+---
+
+<div align="center">
+
+<!-- BANNER GIF -->
+<img src="./gif2.gif" width="80%" alt="Banner">
+
+<br><br>
+
+<h2>
+  <img src="https://api.iconify.design/lucide:ring.svg?width=24&height=24&color=%23E91E63" alt="Anel">
+  <i>𝒞𝒶𝓈𝒶𝒹𝒶 𝒸𝑜𝓂 𝒩𝒶𝓉𝒶́𝓁𝒾𝒶</i>
+</h2>
+
+</div>
 
 ## Contato
 
