@@ -37,7 +37,10 @@ Atualmente estou estudando **programação e desenvolvimento de software**, expl
 
 Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transformar ideias em código.
 
-<h2 align="center">🎵 Spotify</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/simple-icons:spotify.svg?width=22&height=22&color=%23E91E63" alt="Spotify">
+  Spotify
+</h2>
 
 <div align="center">
 
