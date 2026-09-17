@@ -54,11 +54,13 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 
 <br>
 
-<br clear="both">
+<h2 align="center">🎵 Spotify</h2>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/G/G/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
 
-###
+<img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31lhqqiutwqidp346pddgxzwcjdi" alt="Spotify recently played">
+
+</div>
 
 <img src="https://img.shields.io/badge/HTML-E91E63?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-E91E63?style=flat-square&logo=css3&logoColor=white">
