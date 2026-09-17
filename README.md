@@ -24,8 +24,7 @@
 <img src="https://img.shields.io/badge/HTML5-E91E63?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-E91E63?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-E91E63?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/CEF-E91E63?style=for-the-badge">
-<img src="https://img.shields.io/badge/Pawn-E91E63?style=for-the-badge">
+<img  src="https://img.shields.io/badge/Pawn-E91E63?style=for-the-badge">
 
 </div>
 
@@ -33,11 +32,9 @@
 
 ## Sobre mim
 
-Olá! Eu sou a **Genkawa**, tenho **22 anos** e sou **Técnica em Automação Industrial**.
+Olá! Eu sou a ** Isabella Genkawa**, tenho **22 anos** e sou **Técnica em Automação Industrial**.
 
-Atualmente estou estudando **programação e desenvolvimento de software**, explorando diferentes áreas da tecnologia e transformando o que aprendo em projetos.
-
-Tenho conhecimento em **C, C++, Arduino e CLP** e atualmente estou estudando **HTML, CSS, JavaScript, CEF e Pawn**.
+Atualmente estou estudando **programação e desenvolvimento de software**, explorando diferentes áreas da tecnologia.
 
 Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transformar ideias em código.
 
