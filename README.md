@@ -5,8 +5,6 @@
 
 <br><br>
 
-<!-- AVATAR -->
-<img src="./assets/avatar.png" width="150" alt="Genkawa">
 
 <br><br>
 
