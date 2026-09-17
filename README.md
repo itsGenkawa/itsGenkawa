@@ -102,7 +102,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- PIXEL 2 -->
-<img src="./assets/pixel-2.png" width="40" alt="Pixel decorativo">
+<img src="./assets/pixel2.png" width="40" alt="Pixel decorativo">
 
 <br><br>
 
