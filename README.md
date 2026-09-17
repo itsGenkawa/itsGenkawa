@@ -121,14 +121,12 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 
 **𝑮𝒆𝒏𝒌𝒂𝒘𝒂**
 
-<br><br>
-
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- PIXEL 2 -->
 <img src="./gif1.gif" width="160" alt="Totoro">
 
-<br><br> 
+<br>
 
 ### 玄川
 
