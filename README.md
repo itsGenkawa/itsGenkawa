@@ -5,10 +5,12 @@
 
 <br><br>
 
+<!-- AVATAR -->
+<img src="./assets/avatar.png" width="150" alt="Genkawa">
 
 <br><br>
 
-# **𝑮𝒆𝒏𝒌𝒂𝒘𝒂**
+# GENKAWA
 
 ### Programação • Automação • Tecnologia
 
@@ -33,7 +35,7 @@
 
 ## Sobre mim
 
-Olá! Eu sou a **Isabella Genkawa**, tenho **22 anos** e sou **Técnica em Automação Industrial**.
+Olá! Eu sou a **Genkawa**, tenho **22 anos** e sou **Técnica em Automação Industrial**.
 
 Atualmente estou estudando **programação e desenvolvimento de software**, explorando diferentes áreas da tecnologia e transformando o que aprendo em projetos.
 
@@ -97,13 +99,13 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
 
 <br><br>
 
-<!-- ÍCONES SVG — ESTÉTICA JAPONESA -->
+<!-- PIXEL 1 -->
+<img src="./assets/pixel-1.png" width="110" alt="Pixel decorativo">
 
-<img src="https://api.iconify.design/lucide:flower-2.svg?width=22&height=22" alt="花">
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/lucide:fan.svg?width=22&height=22" alt="扇">
-&nbsp;&nbsp;
-<img src="https://api.iconify.design/lucide:star.svg?width=20&height=20" alt="星">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- PIXEL 2 -->
+<img src="./assets/pixel-2.png" width="110" alt="Pixel decorativo">
 
 <br><br>
 
