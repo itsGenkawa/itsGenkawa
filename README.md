@@ -88,7 +88,7 @@ Meu objetivo é continuar evoluindo, desenvolver projetos próprios e transforma
     alt="Anel"
   >
   <span style="font-family: Georgia, serif; font-style: italic;">
-    Casada com Natália
+    Japinha da Natália
   </span>
 </h2>
 
